@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @julio-lara-lopez
-- 👀 I’m interested in Data Science Projects
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Engineering Projects
+- 🌱 I’m currently learning Data Engineer, specifically the DataTalksClub Data Engineering zoomcamp.
+- 📫 you can reach me at juliolaralopez@outlook.com
 
-<!---
-julio-lara-lopez/julio-lara-lopez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
